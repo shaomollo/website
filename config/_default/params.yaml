@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Shalom Omollo'
+    org_name: 'Shalom Omollo'
+    description: 'just a little bit about me :) '
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,17 +43,17 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '©2022 Shalom Omollo. This work is licensed under Creative Commons.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2006-01-02'
   time_format: '3:04 PM'
   address_format: en-us
 
