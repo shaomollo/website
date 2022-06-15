@@ -51,7 +51,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shaomollo
   - icon: camera
-    icon_pack: fab
+    icon_pack: fas
     link: https://vsco.co/shalahomie/gallery
 
 # Link to a PDF of your resume/CV.
