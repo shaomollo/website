@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,7 +71,7 @@ I am a senior at Columbia University studying Psychology and Public Health. I'm 
 
 My academic interests lie in bioinformatics. Currently, I do research for Dr. Sarah Rossetti as a part of the OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab at the Columbia University Irving Medical Center. 
 
-I also work as a Research Scientist for Ensho Health, where I'm building algorithms to help physicians harness the power of the electronic medical record. 
+This past summer, I worked as a Research Scientist for Ensho Health, where I'm building algorithms to help physicians harness the power of the electronic medical record. 
 
 I'm also trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
 
