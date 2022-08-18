@@ -9,12 +9,12 @@ superuser: true
 role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Ensho Health
-    url: https://www.enshohealth.com
+#organizations:
+#  - name: Ensho Health
+#    url: https://www.enshohealth.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm currently a senior at Columbia University studying Psych & Public Health. I also do bioinformatics with Ensho Health.  
+bio: I'm currently a senior at Columbia University studying Psych & Public Health. My interest lies in bioinformatics.  
 
 # Interests to show in About widget
 interests:
