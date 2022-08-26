@@ -6,7 +6,7 @@ title: Shalom Omollo
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: student
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -71,7 +71,7 @@ I am a senior at Columbia University studying Psychology and Public Health. I'm 
 
 My academic interests lie in bioinformatics. Currently, I do research for Dr. Sarah Rossetti as a part of the OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab at the Columbia University Irving Medical Center. 
 
-This past summer, I worked as a Research Scientist for Ensho Health, where I'm building algorithms to help physicians harness the power of the electronic medical record. 
+This past summer, I worked as a Research Scientist for Ensho Health, where I was responsible for developing an algorithm for a chronic neurological disease that helps clinicians better diagnose and manage it through data available in the electronic health record.
 
 I'm also trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
 
