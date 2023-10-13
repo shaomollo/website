@@ -6,7 +6,7 @@ title: Shalom Omollo
 superuser: true
 
 # Role/position/tagline
-role: student
+role: research associate
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -71,10 +71,9 @@ highlight_name: false
 Hi, my name is Shalom. 
 
 Currently:
-- I am researcher in the Patient Decision Support Lab at CUIMC w/ Dr. Ruth Materson Creber and others. 
+- Researcher in the Patient Decision Support Lab at CUIMC w/ Dr. Ruth Materson Creber and others. 
 - in NYC
 
-<<<<<<< HEAD
 Previously:  
 - OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab w/ Dr. Sarah Rossetti and others.
 - Research Scientist for Ensho Health (building algorithms to help physicians harness the power of the electronic medical record)
@@ -85,7 +84,6 @@ In the future:
 - Completing a MSc at Queen's University funded by an NSERC CGS-M in 2024
 =======
 This past summer, I worked as a Research Scientist for Ensho Health, where I was responsible for developing an algorithm for a chronic neurological disease that helps clinicians better diagnose and manage it through data available in the electronic health record.
->>>>>>> 0e032773d52bc9d55fd1983fa601223ee6ad2119
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
