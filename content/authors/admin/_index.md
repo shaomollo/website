@@ -21,14 +21,15 @@ interests:
   - Bioinformatics
   - Neuroscience
   - Public Policy
-  - Legos 
+  - Legos
+  - Cycling 
 
 # Education to show in About widget
 education:
   courses:
     - course: BA in Psychology & Public Health
       institution: Columbia University
-      year: 2022
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,7 +53,7 @@ social:
     link: https://www.linkedin.com/in/shaomollo
   - icon: camera
     icon_pack: fas
-    link: https://vsco.co/shalahomie/gallery
+    link: https://www.instagram.com/shalahomie
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,12 +68,20 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a senior at Columbia University studying Psychology and Public Health. I'm originally from Kenya, but home for me is in Sault Ste. Marie, Canada. 
+Hi, my name is Shalom. 
 
-My academic interests lie in bioinformatics. Currently, I do research for Dr. Sarah Rossetti as a part of the OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab at the Columbia University Irving Medical Center. 
+Currently:
+- I am researcher in the Patient Decision Support Lab at CUIMC w/ Dr. Ruth Materson Creber and others. 
+- in NYC
 
-This past summer, I worked as a Research Scientist for Ensho Health, where I'm building algorithms to help physicians harness the power of the electronic medical record. 
+Previously:  
+- OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab w/ Dr. Sarah Rossetti and others.
+- Research Scientist for Ensho Health (building algorithms to help physicians harness the power of the electronic medical record)
+- Student at Columbia University 
 
-I'm also trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
+In the future: 
+- Trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
+- Completing a MSc at Queen's University funded by an NSERC CGS-M in 2024
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
