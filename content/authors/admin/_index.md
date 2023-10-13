@@ -82,8 +82,5 @@ Previously:
 In the future: 
 - Trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
 - Completing a MSc at Queen's University funded by an NSERC CGS-M in 2024
-=======
-This past summer, I worked as a Research Scientist for Ensho Health, where I was responsible for developing an algorithm for a chronic neurological disease that helps clinicians better diagnose and manage it through data available in the electronic health record.
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
