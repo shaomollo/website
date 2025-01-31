@@ -14,8 +14,8 @@ role: research associate
 #    url: https://www.enshohealth.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm currently a senior at Columbia University studying Psych & Public Health. My interest lies in bioinformatics.  
-
+bio: I'm graduated with a BA in Psychology and Public Health from Columbia University. I have over 4 years of recent experience, most recently at the Patient Decision Lab at Columbia University. Previously, I was a Clinical Operations Analyst at Power Life Sciences and a Research Scientist at Ensho Health. 
+ 
 # Interests to show in About widget
 interests:
   - Bioinformatics
@@ -71,16 +71,16 @@ highlight_name: false
 Hi, my name is Shalom. 
 
 Currently:
-- Researcher in the Patient Decision Support Lab at CUIMC w/ Dr. Ruth Materson Creber and others. 
-- in NYC
+- Skiing as much as I can
 
-Previously:  
+Previously:
+- Researcher in the Patient Decision Support Lab at CUIMC w/ Dr. Ruth Materson  
+- Clinical Operations Analyst at Power Life Sciences 
 - OPTACIMM (Optimizing with Applied Clinical Informatics Models and Methods) lab w/ Dr. Sarah Rossetti and others.
 - Research Scientist for Ensho Health (building algorithms to help physicians harness the power of the electronic medical record)
 - Student at Columbia University 
 
 In the future: 
 - Trying to complete 100% of the achievements in Stardew Valley. It's a work in progress (just like my quest to collect every Harry Potter Lego set). 
-- Completing a MSc at Queen's University funded by an NSERC CGS-M in 2024
+- Run a half-marathon
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
