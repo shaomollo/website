@@ -6,6 +6,7 @@ resources/
 public/
 jsconfig.json
 node_modules/
+.netlify/
 .pnpm-store/
 go.sum
 .hugo_build.lock
