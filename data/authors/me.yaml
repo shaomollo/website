@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name: { display: Shalom Omollo, given: Shalom, family: Omollo }
+links:
+  - { icon: at-symbol, url: "mailto:shalom@omollo.ca", label: "Email Shalom" }
+  - { icon: brands/github, url: "https://github.com/shaomollo", label: GitHub }
+  - { icon: brands/linkedin, url: "https://www.linkedin.com/in/shaomollo", label: LinkedIn }
+  - { icon: hero/camera, url: "https://www.instagram.com/shalahomie", label: Instagram }
+  - { icon: academicons/cv, url: uploads/resume.pdf, label: Résumé }
+education:
+  - { degree: "BA in Psychology & Public Health", institution: Columbia University, year: 2023 }

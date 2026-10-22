@@ -6,5 +6,7 @@ resources/
 public/
 jsconfig.json
 node_modules/
+.pnpm-store/
 go.sum
 .hugo_build.lock
+hugo_stats.json

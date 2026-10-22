@@ -1,2 +1,4 @@
 
-This website was made using [Hugo Academic Themes](https://github.com/wowchemy/starter-hugo-academic). 
+This website is built with [HugoBlox](https://hugoblox.com/) and Hugo.
+
+Build locally with `pnpm install` followed by `pnpm build`.

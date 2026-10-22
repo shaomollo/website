@@ -1,105 +1,50 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
-appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
-
-# SEO
-
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: 'Shalom Omollo'
-    org_name: 'Shalom Omollo'
-    description: 'just a little bit about me :) '
-    twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
-
-# Site header
-
-header:
-  navbar:
-    enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: "Shalom Omollo"
+    type: person
+    description: "Researcher working across healthcare, data, and public health."
+  theme:
+    mode: dark
+    pack: minimal
+    colors:
+      primary: "#cb4a30"
+      neutral: stone
+    surfaces:
+      background: "#000000"
+      foreground: "#edf0eb"
+      header: { background: "#000000", foreground: "#edf0eb" }
+      footer: { background: "#000000", foreground: "#aab4ae" }
+  typography:
+    pack: academic
+  layout:
+    radius: none
+    spacing: spacious
+    avatar_shape: square
+  header:
+    enable: false
+    style: navbar-simple
+    sticky: true
+    align: left
+    search: false
+    theme_toggle: false
+    language_switcher: false
+  footer:
+    style: minimal
+    language_switcher: false
   copyright:
-    notice: '©2022 Shalom Omollo. This work is licensed under Creative Commons.'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
-
-# Localization
-
-locale:
-  date_format: '2006-01-02'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: master
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: master
-    local_backend: false
-  academicons:
-    enable: true
+    notice: "© {year} {name}."
+    license: { type: custom }
+  content:
+    math: { enable: false }
+    toc: { enable: false }
+    reading_time: { enable: false }
+  search: { enable: false }
+  comments: { enable: false }
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+  repository: { enable: false }
+  privacy: { enable: false }
+  pro: { hide_attribution: false }

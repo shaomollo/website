@@ -1,10 +1,10 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://hugoblox.com/docs/
 
 # Default language
 en:
-  languageCode: en-us
+  locale: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
